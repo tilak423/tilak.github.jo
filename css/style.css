@@ -161,6 +161,7 @@ img {
 }
 #adbox div.frame {
 	background-position: 0 0;
+	
 	display: inline-block;
 	height: 142px;
 	width: 892px;
@@ -168,6 +169,7 @@ img {
 }
 #adbox div.section {
 	float: left;
+	
 	width: 416px;
 	padding: 20px 0px 24px 30px;
 	text-shadow: 1px 2px #fdf8f8;
